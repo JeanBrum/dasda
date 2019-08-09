@@ -1,5 +1,5 @@
 body{
-    background: #b80047;
+    background: #e74c3c;
     color: #d0b276;
     font-family: arial;
     text-align: center;
@@ -38,7 +38,7 @@ div{
     padding: 10px 20px;
     border: solid 1px;
     border-radius: 10px 5px;
-    background: #3b081c;
+    background: #34495e;
     -webkit-transition-duration: 1s; 
     transition-duration: 1s;
 }
